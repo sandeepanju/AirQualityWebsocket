@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Air Quality Websocket</string>
+    <string name="hint_city">City</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="current_aqi">Current AQI</string>
+    <string name="decimalFormat">%.2f</string>
+</resources>
